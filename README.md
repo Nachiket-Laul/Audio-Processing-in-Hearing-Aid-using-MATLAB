@@ -5,4 +5,5 @@ Audio Processing in Hearing Aid This project enhances audio clarity for hearing-
 **Block Schematic**
 
 
-<img width="294" alt="image" src="https://github.com/user-attachments/assets/963df81e-13b1-4c4a-9bfa-2089621bf6dd">
+![image](https://github.com/user-attachments/assets/1bf01823-b2c8-4444-b790-f9549e08fccd)
+
